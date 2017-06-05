@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="introdu_u_2_valors_enters_i_una_operaci_pr_mer_per_obtenir_el_resultat">Introduïu 2 valors enters i una operació. Prémer “=” per obtenir el resultat</string>
+    <string name="inserta_el_primer_n_mero">Inserta el primer número</string>
+    <string name="operator_spinner">Choose an operator</string>
+    <string name="select_operator">Select operator</string>
+</resources>
